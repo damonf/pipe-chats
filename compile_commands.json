@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/damon/source/pipe-chat/build/apps",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/pcserver.dir/main.cpp.o -c /home/damon/source/pipe-chat/apps/main.cpp",
+  "file": "/home/damon/source/pipe-chat/apps/main.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/apps",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/pcserver.dir/handler.cpp.o -c /home/damon/source/pipe-chat/apps/handler.cpp",
+  "file": "/home/damon/source/pipe-chat/apps/handler.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/src",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/pipe-chat.dir/pipe-chat/svr/client.cpp.o -c /home/damon/source/pipe-chat/src/pipe-chat/svr/client.cpp",
+  "file": "/home/damon/source/pipe-chat/src/pipe-chat/svr/client.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/src",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/pipe-chat.dir/pipe-chat/svr/listener.cpp.o -c /home/damon/source/pipe-chat/src/pipe-chat/svr/listener.cpp",
+  "file": "/home/damon/source/pipe-chat/src/pipe-chat/svr/listener.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/src",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/pipe-chat.dir/pipe-chat/svr/pcserver.cpp.o -c /home/damon/source/pipe-chat/src/pipe-chat/svr/pcserver.cpp",
+  "file": "/home/damon/source/pipe-chat/src/pipe-chat/svr/pcserver.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/src",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/pipe-chat.dir/pipe-chat/clnt/pcclient.cpp.o -c /home/damon/source/pipe-chat/src/pipe-chat/clnt/pcclient.cpp",
+  "file": "/home/damon/source/pipe-chat/src/pipe-chat/clnt/pcclient.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/src",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/pipe-chat.dir/pipe-chat/clnt/input_poller.cpp.o -c /home/damon/source/pipe-chat/src/pipe-chat/clnt/input_poller.cpp",
+  "file": "/home/damon/source/pipe-chat/src/pipe-chat/clnt/input_poller.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/tests",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/tests/pipe-chat/clnt -I/home/damon/source/pipe-chat/tests/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -isystem /home/damon/source/pipe-chat/build/_deps/trompeloeil-src/include -isystem /home/damon/source/pipe-chat/build/_deps/catch2-src/single_include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test-pipe-chat.dir/pipe-chat/clnt/pcclient_test.cpp.o -c /home/damon/source/pipe-chat/tests/pipe-chat/clnt/pcclient_test.cpp",
+  "file": "/home/damon/source/pipe-chat/tests/pipe-chat/clnt/pcclient_test.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/tests",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/tests/pipe-chat/clnt -I/home/damon/source/pipe-chat/tests/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -isystem /home/damon/source/pipe-chat/build/_deps/trompeloeil-src/include -isystem /home/damon/source/pipe-chat/build/_deps/catch2-src/single_include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test-pipe-chat.dir/pipe-chat/svr/pcserver_test.cpp.o -c /home/damon/source/pipe-chat/tests/pipe-chat/svr/pcserver_test.cpp",
+  "file": "/home/damon/source/pipe-chat/tests/pipe-chat/svr/pcserver_test.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/tests",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/tests/pipe-chat/clnt -I/home/damon/source/pipe-chat/tests/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -isystem /home/damon/source/pipe-chat/build/_deps/trompeloeil-src/include -isystem /home/damon/source/pipe-chat/build/_deps/catch2-src/single_include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test-pipe-chat.dir/pipe-chat/svr/listener_test.cpp.o -c /home/damon/source/pipe-chat/tests/pipe-chat/svr/listener_test.cpp",
+  "file": "/home/damon/source/pipe-chat/tests/pipe-chat/svr/listener_test.cpp"
+},
+{
+  "directory": "/home/damon/source/pipe-chat/build/tests",
+  "command": "/usr/bin/c++  -I/home/damon/source/pipe-chat/tests/pipe-chat/clnt -I/home/damon/source/pipe-chat/tests/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat -I/home/damon/source/pipe-chat/src/pipe-chat/svr -I/home/damon/source/pipe-chat/src/pipe-chat/svr/interface -I/home/damon/source/pipe-chat/src/pipe-chat/clnt -I/home/damon/source/pipe-chat/src/pipe-chat/clnt/interface -isystem /home/damon/source/pipe-chat/include -isystem /home/damon/source/pipe-chat/build/_deps/trompeloeil-src/include -isystem /home/damon/source/pipe-chat/build/_deps/catch2-src/single_include -g -Wall -Wextra -Wwrite-strings -Wno-parentheses -Wno-comment -Wpedantic -Warray-bounds -Weffc++ -Werror -std=c++17 -o CMakeFiles/test-pipe-chat.dir/pipe-chat/svr/client_test.cpp.o -c /home/damon/source/pipe-chat/tests/pipe-chat/svr/client_test.cpp",
+  "file": "/home/damon/source/pipe-chat/tests/pipe-chat/svr/client_test.cpp"
+}
+]

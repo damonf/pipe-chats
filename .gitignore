@@ -1,0 +1,5 @@
+# Ignore the build dir
+build/
+
+# gdb
+.gdb_history
